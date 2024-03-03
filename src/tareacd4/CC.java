@@ -1,5 +1,5 @@
 package tareacd4;
-
+//prueba
 public class CC {
     public String nombre;
     public String cuenta;
